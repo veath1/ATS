@@ -1,3 +1,3 @@
-# "Administrator" to "NT AUTHORITY\SYSTEM" 
+# "Administrator" To "NT AUTHORITY\SYSTEM" 
 
 Fun & Fun
